@@ -20,4 +20,4 @@ Official MikroTik RouterOS automation script for **[SMSBD.Asia](https://smsbd.as
 ### 📋 MikroTik CLI Example
 
 
-Developed and maintained by **[mdrrana.dev](https://mdrrana.dev)**.
+Maintained by [mdrrana.dev](https://mdrrana.dev) & [FiberNox Engineering](https://fibernox.com).
